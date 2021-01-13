@@ -8,7 +8,6 @@ while i<=n :
     summation+=i
     i+=1
 print(summation)
-#แบบ for loop
 
 #แบบ ใช้สูตรทางคณิตศาสตร์
 x = int(input("กรอกเลขที่ต้องการบวกถึง : "))
